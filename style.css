@@ -1,0 +1,65 @@
+h1{
+    color: red;
+}
+
+.list{
+    list-style-type: decimal;
+}
+
+.list li{
+    color: rgb(148, 30, 30);
+    line-height: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.list h3{
+    color: red;
+    margin-left: -40px ;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 22px;
+}
+
+.bgcolor{
+    background-color: #e3e342;
+    font-weight: bold;
+}
+
+.list a{
+    font-style: italic;
+    color: rgb(148, 30, 30);
+}
+
+.unlist{
+    list-style-type: disc;
+    
+}
+
+.unlist h3{
+    margin-left: -40px ;
+    font-style: italic;
+    font-weight: 900;
+    color: red;
+    font-size: 22px;
+}
+
+.unlist li{
+    color: rgb(148, 30, 30);
+    letter-spacing: 5px;
+    line-height: 25px;
+}
+
+.text{
+    color: rgb(148, 30, 30);
+    font-size: 18px;
+   font-weight: 525;
+}
+
+.hyper{
+    color: red;
+    background-color: rgb(237, 240, 59);
+    text-decoration: none;
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 600;
+}
