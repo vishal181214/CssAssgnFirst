@@ -25,11 +25,14 @@ h1{
     font-weight: bold;
 }
 
-.list a{
-    font-style: italic;
-    color: rgb(148, 30, 30);
+.del{
+    text-decoration: line-through
 }
 
+.underline{
+    font-style: italic;
+    text-decoration: underline;
+}
 .unlist{
     list-style-type: disc;
     
